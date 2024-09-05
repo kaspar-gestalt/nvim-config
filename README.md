@@ -1,3 +1,26 @@
+# Usage instructions
+
+To use this neovim config, `git pull` it into `~/.config/nvim`. Make sure your neovim installation is 0.9.4. To install it on Linux, download `nvim.appimage 0.9.4` from https://github.com/neovim/neovim/releases and chmod it and move it to /usr/bin/nvim. Then run `:PackerSync` in nvim to install all the dependencies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Neovim from scratch
 
 When I initially created this repo I didn't anticipate the amount of breaking changes introduced by the rapidly developing plugin ecosystem.  All packages are pinned in `master` so it will remain stable and you can always follow the [videos](https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)
