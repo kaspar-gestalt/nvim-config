@@ -1,7 +1,6 @@
 # Usage instructions
 
-To use this neovim config, `git pull` it into `~/.config/nvim`. Make sure your neovim installation is 0.9.4. To install it on Linux, download `nvim.appimage 0.9.4` from https://github.com/neovim/neovim/releases and chmod it and move it to /usr/bin/nvim. Then run `:PackerSync` in nvim to install all the dependencies.
-
+To use this neovim config, `git pull` it into `~/.config/nvim`. Make sure your neovim installation is 0.9.4. To install it on Linux, download `nvim.appimage 0.9.4` from https://github.com/neovim/neovim/releases and chmod it and move it to /usr/bin/nvim. Then run `:PackerSync` in nvim to install all the dependencies. For live grep to work, ripgrep needs to be installed.
 
 
 
